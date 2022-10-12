@@ -1,3 +1,9 @@
+| :warning: WARNING                                                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------- |
+| This fork is just a temporary one and will be removed after changes that make it comatible with Ember v4 are merged and published. |
+
+---
+
 # ember-pikaday
 
 [![Ember Observer Score](https://emberobserver.com/badges/ember-pikaday.svg)](https://emberobserver.com/addons/ember-pikaday)
